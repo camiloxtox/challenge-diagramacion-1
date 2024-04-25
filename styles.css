@@ -1,0 +1,147 @@
+
+body{
+    display: block;
+    width: 100vw;
+    height: 48.5vw;
+    margin: 0;
+    padding: 0%;
+    background-color: #FAFAF9;
+}
+.contenedor{
+    display: flex;
+    background-color: #FAFAF9;
+    height: auto;
+    margin: 0;
+    padding: 5%;
+    border: 0;
+    padding-top: 5%;
+    flex-wrap: wrap;
+}
+img{
+    height: 55px;
+    width: 60px;
+    margin-bottom: 20px;
+}
+.vista{
+    width: 590px;
+    height: 500px;
+    color: #52525A;
+    margin-left: 20px;
+    margin-bottom: 0px;
+    min-width: 250px;
+
+}
+h1{
+    font-family: "Sora", sans-serif;
+    font-size: 36px;
+    padding-top: 0;
+    margin-top: 0;
+    margin-bottom: 35px;
+    color: #18181B;
+  }
+.texto{
+    color: #52525A;
+    font-family: "Sora", sans-serif;
+    font-size: 20px;
+    margin-bottom: 60px;
+    height:150px;
+    line-height: 40px;
+}
+p{
+    margin-top: 10px;
+    padding: 0px;
+    border: 0px;
+    display: flex;
+    align-items: center;
+    font-family: "Sora", sans-serif;
+    font-size: 14px;
+}
+.visto{
+    padding-right: 10px;
+    height: 20px;
+}
+.subcontenedor{
+    float: right;
+    width: 620px;
+    height: 500px;
+    display: block;
+    min-width: 250px;
+}
+.goog{
+    background-color:#ffff;
+    width: 300px;
+    height: 150px;
+    margin-left: 230px;
+    margin-bottom: 120px;
+    border-radius: 10px;
+    padding: 25px;
+    box-shadow: 0px 0px 5px rgb(212, 212, 201);
+}
+.met{
+    background-color:#ffff;
+    width: 300px;
+    height: 150px;
+    margin-left: 40px;
+    border-radius: 10px;
+    padding:25px;
+    box-shadow: 0px 0px 5px rgb(212, 212, 201);
+}
+.gogoog{
+    width: 30%;
+    height: 32px;
+    padding-right: 15px;
+    margin-bottom: 10px;
+
+}
+.gometa{
+    width: 30%;
+    height: 30px;
+    padding-right: 15px;
+    margin-bottom: 10px;
+}
+.googerate{
+    margin-bottom: 2px;
+    font-size: 20px;
+    margin-top: 2px;
+    padding: 0px;
+    border: 0px;
+    display: flex;
+}
+.metarates{
+    margin-bottom: 2px;
+    font-size: 20px;
+    margin-top: 2px;
+    padding: 0px;
+    border: 0px;
+    display: flex;
+}
+.textometas{
+    font-family: "Sora", sans-serif;
+    font-size: 16px;
+    line-height: 30px;
+    color: #52525A;
+}
+.textgoo{
+    font-family: "Sora", sans-serif;
+    font-size: 16px;  
+    line-height: 30px;
+    color: #52525A;
+}
+.rachel{
+    font-family: "Sora", sans-serif;
+    font-size: 16px;  
+}
+.Camilo{
+    font-family: "Sora", sans-serif;
+    font-size: 16px;  
+}
+.gray-star{
+    margin: 0px;
+    margin-right: 1000x;
+    border: 0px;
+    width:32px;
+    height: 29px;
+    filter: brightness(0) invert(-1);
+    }
+    
+
